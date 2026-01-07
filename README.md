@@ -1,5 +1,27 @@
-# 💫 About Me:
-Data Science projects using Python<br>Exploratory Data Analysis (EDA) on real-world datasets<br>Improving my GitHub portfolio with data-driven projects<br><br>Data Science & Data Analysis projects<br>Beginner-friendly Machine Learning projects<br>Open-source Python projects<br><br>Advanced Machine Learning concepts<br>Model optimization and real-world ML use cases<br>Data Science best practices<br><br>Data Analysis with Pandas & NumPy<br>Data Visualization (Matplotlib, Seaborn)<br>Machine Learning fundamentals<br>SQL for data handling<br><br>Python programming<br>Data Analysis basics<br>Face Recognition using OpenCV<br>My Data Science learning journey<br><br>I enjoy turning raw data into meaningful insights 
+<h1 align="center">I'm Hardik Vala</h1>
+
+<h3 align="center">
+Aspiring Data Scientist | MCA (Pursuing) <br>
+Python • Data Analysis • Machine Learning (Beginner) <br><br>
+BCA Graduate | MCA Student
+</h3>
+
+<br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Hardik336&label=Profile%20views&color=0e75b6&style=flat" alt="Hardik336" />
+</p>
+
+<ul>
+    <li>🔭 I’m currently working on <strong>Data Science projects using Python and real-world datasets</strong></li>
+    <li>🔭 Exploring <strong>Exploratory Data Analysis (EDA) and basic Machine Learning models</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>Data Science, Data Analysis, and beginner-friendly ML projects</strong></li>
+    <li>🌱 I’m currently learning <strong>Pandas, NumPy, Data Visualization, and Machine Learning fundamentals</strong></li>
+    <li>💬 Ask me about <strong>Python, Data Analysis basics, and Face Recognition using OpenCV</strong></li>
+    <li>📫 How to reach me <strong>valahardik336@mail.com</strong></li>
+    <li>📄 Know about my journey <a href="https://www.linkedin.com/in/vala-hardik">LinkedIn</a></li>
+    <li>⚡ Fun fact <strong>I enjoy turning raw data into meaningful insights 📊</strong></li>
+</ul>
 
 
 ## 🌐 Socials:
