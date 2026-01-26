@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Aspiring Data Scientist | MCA (Pursuing) <br>
-Python • Data Analysis • Machine Learning (Beginner) <br><br>
+Python • Data Analytics • Machine Learning (Beginner) <br><br>
 BCA Graduate | MCA Student
 </h3>
 
