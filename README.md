@@ -1,28 +1,27 @@
-<h1 align="center">I'm Hardik Vala</h1>
+<h1 align="center">Hi 👋, I'm Hardik Vala</h1>
 
 <h3 align="center">
-Aspiring Data Scientist | MCA (Pursuing) <br>
-Python • Data Analytics • Machine Learning (Beginner) <br><br>
-BCA Graduate | MCA Student
+AI/ML Engineer | MCA Student | Python Developer
 </h3>
 
-<br>
+<p align="center">
+Passionate about building intelligent applications using Machine Learning, Deep Learning, and Computer Vision.
+</p>
+
+---
+
+- 🔭 Currently working on **AI/ML and Computer Vision projects**
+- 🌱 Learning **Machine Learning, Deep Learning, NLP, TensorFlow, and PyTorch**
+- 💡 Interested in **Generative AI, LLMs, Computer Vision, and MLOps**
+- 👯 Looking to collaborate on **AI/ML and Open Source projects**
+- 💬 Ask me about **Python, Machine Learning, OpenCV, Django, and REST APIs**
+- 📫 Email: **valahardik336@mail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/vala-hardik**
+- ⚡ Fun fact: **I enjoy solving real-world problems using AI.**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Hardik336&label=Profile%20views&color=0e75b6&style=flat" alt="Hardik336" />
 </p>
-
-<ul>
-    <li>🔭 I’m currently working on <strong>Data Science projects using Python and real-world datasets</strong></li>
-    <li>🔭 Exploring <strong>Exploratory Data Analysis (EDA) and basic Machine Learning models</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>Data Science, Data Analysis, and beginner-friendly ML projects</strong></li>
-    <li>🌱 I’m currently learning <strong>Pandas, NumPy, Data Visualization, and Machine Learning fundamentals</strong></li>
-    <li>💬 Ask me about <strong>Python, Data Analysis basics, and Face Recognition using OpenCV</strong></li>
-    <li>📫 How to reach me <strong>valahardik336@mail.com</strong></li>
-    <li>📄 Know about my journey <a href="https://www.linkedin.com/in/vala-hardik">LinkedIn</a></li>
-    <li>⚡ Fun fact <strong>I enjoy turning raw data into meaningful insights 📊</strong></li>
-</ul>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hardik056759) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hardikvala_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/vala-hardik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@valahardik336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valahardik336@gmail.com) 
